@@ -7,6 +7,12 @@
     "dist",
     "src"
   ],
+  "repository": {
+    "url": "https://github.com/georyitt/geory-product-card.git",
+    "type": "git"
+  },
+  "homepage": "https://stoynoc.com",
+  "keywords": ["geory"],
   "engines": {
     "node": ">=10"
   },
