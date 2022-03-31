@@ -1,4 +1,3 @@
-import React from "react";
 import {useCallback, useContext} from "react";
 import styles from "../styles/styles.module.css";
 import {ProductContext} from "./ProductCard";

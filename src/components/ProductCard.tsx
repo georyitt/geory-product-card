@@ -2,7 +2,6 @@ import styles from "../styles/styles.module.css"
 import {useProduct} from "../hooks/useProduct";
 import {createContext, CSSProperties} from "react";
 import {IProductContextProps, IProduct, IOnChangeArgs, IInitialValues} from "../interfaces";
-import React from "react";
 
 export const ProductContext = createContext({} as IProductContextProps)
 const {Provider} = ProductContext;
